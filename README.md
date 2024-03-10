@@ -12,7 +12,7 @@ This is a portfolio website showcasing my projects, skills, and experience. It i
 
 ## Installation🧑‍🔧
 ### Clone the repository: https://github.com/MohammedFarhan1/portfolio-website
-### Access the website at https://mohammedfarhan1.github.io/portfolio-website/
+### Access the website at https://mohammedfarhan1.github.io/Portfolio-Website-Project-/
 
 ## Usage📊
 - Customize the content in index.html to reflect your own projects, skills, and experience.
